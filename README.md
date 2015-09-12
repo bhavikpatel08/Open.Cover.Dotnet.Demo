@@ -1,14 +1,16 @@
 # Open.Cover.Dotnet.Demo
 Learn How to implement Open Cover (Code Coverage without VS premium/ pro version) in Dotnet
 <br/>
-<b>Code Coverage</b>
-Code Coverage is measurement of How much code is cover during testing.
+<br/>
+<u><b>Code Coverage</b></u><br/>
+Code Coverage is measurement of How much code is cover during testing.<br/>
 You must purchase Visual Studio premium or professional version to get inbuilt code coverage tool.
 
-Required nuget packages
-1. OpenCover
-2. ReportGenerator
-3. Nunit.Runners
-4. Nunit (for test project)
+<ul><b>Reqired nuget packages</b>
+<li>OpenCover</li>
+<li>ReportGenerator</li>
+<li>Nunit.Runners</li>
+<li>Nunit (for test project)</li>
+</ul>
 
 for more information visit my blog http://www.dotnetspan.com
