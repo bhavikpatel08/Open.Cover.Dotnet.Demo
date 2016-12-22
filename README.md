@@ -6,7 +6,7 @@ Learn How to implement Open Cover (Code Coverage without VS premium/ pro version
 Code Coverage is measurement of How much code is cover during testing.<br/>
 You must purchase Visual Studio premium or professional version to get inbuilt code coverage tool.
 
-<ul><b>Reqired nuget packages</b>
+<ul><b>Required nuget packages</b>
 <li>OpenCover</li>
 <li>ReportGenerator</li>
 <li>Nunit.Runners</li>
